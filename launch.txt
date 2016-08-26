@@ -1,1 +1,1 @@
--refresh 75 -freq 75 -noforcemparms -noforcemaccel  -processheap -novid -high -threads 4 -nojoy -lv -nod3d9ex -dxlevel 90 +sv_lan 1 -tickrate 128 +cl_forcepreload 1 +mat_queue_mode 2 +exec autoexec.cfg
+-refresh 75 -freq 75 -noforcemparms -noforcemaccel  -processheap -novid -high -threads 4 -nojoy -nod3d9ex1 -dxlevel 90 +sv_lan 1 -tickrate 128 -language english +cl_forcepreload 1 +mat_queue_mode 2 +exec autoexec.cfg
