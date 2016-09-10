@@ -15,13 +15,15 @@
 	
 	"setting.mat_triplebuffered"			"0"
 	
+	"setting.triplebuffered"			"0"
+	
 	"setting.mat_grain_scale_override"		"1"
 	
 	"setting.gpu_mem_level"				"0"
 	
-	"setting.mem_level"				"0"
+	"setting.mem_level"				"2"
 	
-	"setting.mat_queue_mode"			"0"
+	"setting.mat_queue_mode"			"-1"
 	
 	"setting.csm_quality_level"			"1"
 	
