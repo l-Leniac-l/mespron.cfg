@@ -33,9 +33,9 @@
 	
 	"setting.fullscreen"				"1"
 	
-	"setting.defaultres"				"1024"
+	"setting.defaultres"				"800"
 	
-	"setting.defaultresheight"			"768"
+	"setting.defaultresheight"			"600"
 	
 	"setting.aspectratiomode"			"0"
 	
