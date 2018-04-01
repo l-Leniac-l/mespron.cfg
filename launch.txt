@@ -1,1 +1,1 @@
--refresh 144 -freq 144 -novid -nojoy -nod3d9ex1 -dxlevel 90 -tickrate 128 +exec autoexec.cfg
+-refresh 144 -freq 144 -novid -nojoy -nod3d9ex1 -language bananagaming -nomicsettings -dxlevel 90 -tickrate 128 +exec autoexec.cfg
